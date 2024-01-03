@@ -1,6 +1,5 @@
 <div align="center" style="display: flex-horizontal; padding-bottom: 20px;">
 <img src="./images/team_cartographer_logo_rounded_edges.png" />
-<img src="./images/suits_logo.png"/>
 <h1>Team Cartographer SUITS 2024</h1>
 <a href="mailto:teamcartographer@gmail.com"><img src="https://img.shields.io/badge/contact-teamcartographer@gmail.com-blue" alt="contact"></a>
 <a href="https://github.com/Team-Cartographer"><img src="https://img.shields.io/badge/Team Cartographer GitHub-red" alt="github"></a></a>
