@@ -7,4 +7,8 @@ HMD code can be found at [./HMD](./HMD)
 
 LMCC code can be found at [./LMCC](./LMCC)
 
+Our Development Repositories are found on our GitHub Teams page at: 
+- [HMD](https://github.com/Team-Cartographer/SUITS-2024-HMD)
+- [LMCC](https://github.com/Team-Cartographer/SUITS-2024-LMCC)
+
 Thank you to the SUITS Teams, our Institutions, Sponsors, and NASA for their support, and thank you for reading!
