@@ -1,0 +1,6 @@
+[submodule "SUITS-2024-HMD"]
+	path = SUITS-2024-HMD
+	url = https://github.com/Team-Cartographer/SUITS-2024-HMD
+[submodule "SUITS-2024-LMCC"]
+	path = SUITS-2024-LMCC
+	url = https://github.com/Team-Cartographer/SUITS-2024-LMCC
