@@ -3,9 +3,9 @@
 Welcome to the repository for the HMD and LMCC Application code for Team Cartographer's Submission to the 2023/24 NASA SUITS Challenge.
 Team Cartographer consists of students from UC Irvine, Merced, Davis, and CU Boulder.
 
-HMD code can be found at [./SUITS-2024-HMD](./SUITS-2024-HMD)
-
-LMCC code can be found at [./LMCC](./SUITS-2024-LMCC)
+In the event that the submodules aren't up to date, 
+HMD code can be found at our HMD repository: https://github.com/Team-Cartographer/SUITS-2024-HMD 
+LMCC code can be found at our LMCC repository: https://github.com/Team-Cartographer/SUITS-2024-LMCC
 
 These repositories are submoduled, and will redirect you to our development repositories containing the most up-to-date code. 
 
